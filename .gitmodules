@@ -1,3 +1,6 @@
 [submodule "lct-krasnodar-2023-front"]
 	path = lct-krasnodar-2023-front
 	url = https://github.com/exln/lct-krasnodar-2023-front
+[submodule "lct-krasnodar-2023-back"]
+	path = lct-krasnodar-2023-back
+	url = https://github.com/exln/lct-krasnodar-2023-back
